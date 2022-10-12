@@ -5,9 +5,11 @@
     padding: 6px;
     margin: 12px;
     padding-right: 24px;
+    padding-bottom: 18px;
     min-height: 250px ;
     font-size: 1.45rem;
     filter: blur(0.5px);
+    font-weight: 500;
 }
 
 .bank{
